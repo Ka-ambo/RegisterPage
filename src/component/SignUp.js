@@ -154,8 +154,8 @@ function SignUp() {
       />
       <br/>
 
-    <Link to='/show' state={{values,country} } ></Link>
-    <button >submit</button>
+    <Link to='/show' state={{values,country} } ><button >submit</button></Link>
+    
      </form>
 
      
